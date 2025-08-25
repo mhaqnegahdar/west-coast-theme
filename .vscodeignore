@@ -1,4 +1,25 @@
-.vscode/**
-.vscode-test/**
-.gitignore
+# Exclude development files
 vsc-extension-quickstart.md
+sample.webp
+CREDITS.md
+LICENSE.md
+
+# Exclude common development files (if you have them)
+.vscode/**
+.git/**
+.gitignore
+*.vsix
+node_modules/**
+src/**
+.eslintrc.json
+tsconfig.json
+webpack.config.js
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

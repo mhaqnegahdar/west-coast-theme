@@ -3,6 +3,7 @@
   "displayName": "West Coast Theme",
   "description": "For developers with sensitive eyes.",
   "version": "0.0.1",
+  "publisher": "mhaqnegahdar",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -17,5 +18,18 @@
         "path": "./themes/West Coast Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "west coast",
+    "andromeda",
+    "kimbie"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhaqnegahdar/west-coast-theme.git"
+  },
+  "icon": "icon.png"
 }
