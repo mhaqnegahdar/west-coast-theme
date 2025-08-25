@@ -1,0 +1,21 @@
+{
+  "name": "west-coast-theme",
+  "displayName": "West Coast Theme",
+  "description": "For developers with sensitive eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "West Coast Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/West Coast Theme-color-theme.json"
+      }
+    ]
+  }
+}
